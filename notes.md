@@ -16,7 +16,7 @@
 
 ## Contents
 
-* [Open Source](#open-sources)
+* [Open Source](#open-source)
   * [Native GUI](#native-gui)
   * [CLI](#cli)
   * [Editor Plugin](#editor-plugin)
