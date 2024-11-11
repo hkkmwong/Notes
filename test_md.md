@@ -72,6 +72,14 @@ This **word** is bold.  This <em>word</em> is italic.
 > End of quote.
 >
 
+<details>
+  <summary>Details
+  * One
+    * Two
+    * Three
+  </summary>
+</details>
+
 ```
 Codes  
 print("Hello, World!")
