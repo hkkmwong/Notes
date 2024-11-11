@@ -36,7 +36,8 @@ The MRCAO, Cap. 650, requires Specified Professionals who have frequent contacts
 **“Serious Harm”**: Schedule 2 of the MRCAO  
 
 <hr>
-### Other samples
+
+### Other Examples
 
 ``Use `code` in your Markdown file.``  
 | Col 1 | Col 2 |
