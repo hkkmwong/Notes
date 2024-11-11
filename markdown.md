@@ -4,7 +4,7 @@
 
 ---
 
-**Introduction**
+## Introduction
 
 Every child has a right to protection against any forms of harm or exploitation, and child maltreatment/abuse should be prevented and, if occurred, be intervened promptly to prevent further harm or risk to the child involved.
 
@@ -15,7 +15,7 @@ Laymen and practitioners of different professions may not be able to distinguish
 Some professions have required their practitioners to report suspected child maltreatment cases to Police and SWD, and other only reported these cases on a voluntary basis.  Yet, there were times when unreported serious cases that have led to tragedies due to failure of early reporting and interventions.  These tragedies may have been prevented if reporting has taken place earlier.
 
 
-**Background**
+## Background
 
 The Chief Executive announced in his 2022 Policy Address that the Government would take forward the setting up of mandatory reporting regime for child abuse cases to enhance the protection for children.  At the meeting of the Executive Council on 23 May 2023, the
 Council ADVISED and the Chief Executive ORDERED that the [Mandatory Reporting of Child Abuse Bill (“Bill”)](https://www.legco.gov.hk/en/legco-business/council/bills.html?bill_key=10001&session=2024) should be introduced into the Legislative Council (“LegCo”).  The Bill was gazatted on 2 June 2023 and introduced to LegCo on 14 June 2023.  In the legislative proposal, professionals who have frequent contacts with the children during the course of work should be required to make mandatory report of child abuse.  A list of the practitioners is to be designated as Mandated Reporters (“MRs”) come from social welfare sector, education sector and healthcare sector.  It is proposed that mandated reporters should be required to make a report if they have reasonable grounds to suspect that a child "is suffering serious harm" or "is at real risk of suffering serious harm" during their course of work and pertaining to their scope of professional practice. 
