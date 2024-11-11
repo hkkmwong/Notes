@@ -72,13 +72,24 @@ This **word** is bold.  This <em>word</em> is italic.
 > End of quote.
 >
 
+---
+
 <details>
-  <summary>Details
-  * One
-    * Two
-    * Three
-  </summary>
+<summary>Details</summary>  
+- One<br>
+- Two<br>
+- Three<br>
 </details>
+
+---
+
+<details>
+<summary>Details</summary>
+1. GitHub<br>
+2. Markdown<br>
+3. Python<br>
+</details>
+
 
 ```
 Codes  
