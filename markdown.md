@@ -29,7 +29,7 @@ The MRCAO, Cap. 650, requires Specified Professionals who have frequent contacts
 
 **“MR”**: Mandated Reporter  
 **“MRCAO”**: Mandatory Reporting of Child Abuse Ordinance, Cap. 650 (“Ordinance”)  
-**“MRG”**: Mandated Reporter Guide / Mandated Reporter’s Guide (contrary to <u>Mandatory</u> Reporter Guide [or Mandatory Reporter’s Guide] (MRG) of NSW (https://reporter.childstory.nsw.gov.au/s/))  
+**“MRG”**: Mandated Reporter Guide / Mandated Reporter’s Guide (contrary to *Mandatory* Reporter Guide [or Mandatory Reporter’s Guide] (MRG) of NSW (https://reporter.childstory.nsw.gov.au/s/))  
 **“MRR”**: Mandatory Reporting Regime  
 **“MRR System”**: The Mandatory Reporting Regime Online Reporting System (“System”), e-Reporting Platform, Online Reporting Platform, e-Form, etc.  
 **“Specified Professionals”**: Part 1 of Schedule 1 of the MRCAO  
