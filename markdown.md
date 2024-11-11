@@ -1,6 +1,7 @@
 **Table of Contents**  
 [Introduction](#introduction)  
 [Background](#background)  
+[Terms and Abbreviations](#terms-and-abbreviations)
 
 ---
 
@@ -23,6 +24,17 @@ Council ADVISED and the Chief Executive ORDERED that the [Mandatory Reporting of
 The Bills Committee on the Bill held its first meeting on 25 July 2023 and completed its scrutiny work at it ninth (9th) meeting on 1 June 2024.  After reporting to the [House Committee](https://www.legco.gov.hk/yr2024/english/hc/agenda/hc20240621.htm) of LegCo on **21 June 2024 (Fri)**, the Bill was put up for Second Reading (debate to resume) and consideration by committee of the whole Council and Third Reading on 10 July 2024 (Wed) and was passed at the [LegCo meeting](https://www.legco.gov.hk/en/legco-business/council/council-meetings.html#schedule&cm20240710) on **11 July 2024 (Thu)**.  The **Mandatory Reporting of Child Abuse Ordinance (“MRCAO”)** (“Ordinance”) was gazetted on 19 July 2024 (Fri) and will take effect after 18 months, i.e. 20 January 2026 (Tue).  According to the Hong Kong e-Legislation [Chapter Number Index](https://www.elegislation.gov.hk/index/chapternumber?TYPE=1&TYPE=2&TYPE=3&LANGUAGE=E), the Ordinance has been assigned as [Chapter 650](https://www.elegislation.gov.hk/hk/cap650).
 
 The MRCAO, Cap. 650, requires Specified Professionals who have frequent contacts with children to report suspected child maltreatment cases to the Authority, i.e. HKPF and SWD, as soon as practicable.  Failure may be an offence and result in criminal proceedings and penalty.
+
+## Terms and Abbreviations
+
+**“MR”**: Mandated Reporter  
+**“MRCAO”**: Mandatory Reporting of Child Abuse Ordinance, Cap. 650 (“Ordinance”)  
+**“MRG”**: Mandated Reporter Guide / Mandated Reporter’s Guide (contrary to Mandatory Reporter Guide [or Mandatory Reporter’s Guide] (MRG) of NSW (https://reporter.childstory.nsw.gov.au/s/))  
+**“MRR”**: Mandatory Reporting Regime  
+**“MRR System”**: The Mandatory Reporting Regime Online Reporting System (“System”), e-Reporting Platform, Online Reporting Platform, e-Form, etc.  
+**“Specified Professionals”**: Part 1 of Schedule 1 of the MRCAO  
+**“Serious Harm”**: Schedule 2 of the MRCAO  
+
 
 
 <hr>
