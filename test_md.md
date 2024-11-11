@@ -35,15 +35,15 @@ The MRCAO, Cap. 650, requires Specified Professionals who have frequent contacts
 **“Specified Professionals”**: Part 1 of Schedule 1 of the MRCAO  
 **“Serious Harm”**: Schedule 2 of the MRCAO  
 
-
-
 <hr>
 
 ``Use `code` in your Markdown file.``  
 | Col 1 | Col 2 |
 | --- | --- |
 | Money can buy | Money cannot buy |
+
 ---
+
 This **word** is bold.  This <em>word</em> is italic.
 ```
 {
@@ -62,3 +62,15 @@ This **word** is bold.  This <em>word</em> is italic.
 ```
 
 ~~The world is flat.~~  We now know that the world is round.
+
+> This is quote
+>
+>> This is quote in quote
+>
+> End of quote.
+>
+
+```
+Codes  
+print("Hello, World!")
+```
