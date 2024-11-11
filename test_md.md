@@ -1,4 +1,4 @@
-**Table of Contents**  
+## Table of Contents
 [Introduction](#introduction)  
 [Background](#background)  
 [Terms and Abbreviations](#terms-and-abbreviations)
