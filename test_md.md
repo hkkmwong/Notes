@@ -85,9 +85,9 @@ This **word** is bold.  This <em>word</em> is italic.
 
 <details>
 <summary>Details</summary>
-1. GitHub<br>
-2. Markdown<br>
-3. Python<br>
+1. `GitHub`<br>
+2. `Markdown`<br>
+3. `Python`<br>
 </details>
 
 
