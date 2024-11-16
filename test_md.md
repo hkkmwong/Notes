@@ -90,6 +90,7 @@ This **word** is bold.  This <em>word</em> is italic.
 3. Python<br>
 </details>
 
+---
 1. `GitHub`<br>
 2. `Markdown`<br>
 3. `Python`<br>
